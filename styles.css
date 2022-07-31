@@ -1,6 +1,25 @@
-* {
-  box-sizing: border-box;
+body {
   background-color: #fff5e8;
+}
+* {
+  background-color: #fff5e8;
+}
+
+.card {
+  background-color: #fff5e8;
+  border-width: 0;
+}
+
+#hero-image {
+  position: relative;
+}
+
+#initials {
+  position: absolute;
+  padding: 5px;
+  top: 45px;
+  left: 63px;
+  z-index: 1;
 }
 
 :root {
