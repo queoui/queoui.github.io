@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  background-color: #fff5e8;
 }
 
 :root {
@@ -44,4 +45,8 @@ form {
   width: 160px;
   height: 80px;
   margin: 1px;
+}
+
+textarea {
+  resize: none;
 }
