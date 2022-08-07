@@ -157,3 +157,8 @@ textarea {
 .Projects {
   text-align: center;
 }
+
+.Contact .btn {
+  height: 40px;
+  width: 100px;
+}
