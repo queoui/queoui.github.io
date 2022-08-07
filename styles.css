@@ -162,3 +162,7 @@ textarea {
   height: 40px;
   width: 100px;
 }
+
+.Projects a {
+  color: #080808;
+}
